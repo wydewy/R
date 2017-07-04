@@ -2,20 +2,25 @@
 
 * 下载R源代码
 
-      [原码下载地址](https://cloud.r-project.org/)
+ [原码下载地址](https://cloud.r-project.org/)
   
 * 安装编译环境
 
     yum -y install gcc
+    
     yum install glibc-headers
+    
     yum install gcc-c++
+    
     yum install gcc-gfortran
 
 * 安装
 
     在下载的解压文件夹中 
     ./configure 
+    
     make 
+    
     make install
     
 安装过程中的问题
