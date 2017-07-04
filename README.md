@@ -2,7 +2,7 @@
 
 * 下载R源代码
 
- [原码下载地址](https://cloud.r-project.org/)
+ [原码下载地址](https://cloud.r-project.org/sources.html)
   
 * 安装编译环境
 
