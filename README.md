@@ -34,3 +34,7 @@
         解决方法：yum -y install xz-devel.x86_64 
 
 * 3、缺少什么就使用yum search 缺少的名称，再根据相应的包来进行安装。
+
+* 4、yum install readline-devel（解决错误“ --with-readline=yes (default) and headers/libs are not available”）
+
+* 5、yum install libXt-devel（解决错误“–with-x=yes (default) and X11 headers/libs are not available”）
